@@ -1,4 +1,4 @@
-Violet_Shop_Template  is a WordPress starter theme based on Underscores and Bootsgtrap Framework(I have used for html template webpack+sass-pattern(Sass 7-1 Pattern)). It's just a personal project meant for speedup my workflow, a solid base to start with for more complex projects.
+Violet_Shop_Template  is a WordPress starter theme based on Underscores and Bootstrap Framework(I have used for html template webpack+sass-pattern(Sass 7-1 Pattern)). It's just a personal project meant for speedup my workflow, a solid base to start with for more complex projects.
 
 ## Features
 
